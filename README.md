@@ -1,6 +1,6 @@
 # AlternateLEDs
 
-Disponible durante esta semana
+Por especificar durante esta semana
 
 ## Video test
 

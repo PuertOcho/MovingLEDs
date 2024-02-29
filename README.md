@@ -1,6 +1,6 @@
-# AlternateLEDs
+# MovingLEDs
 
-Por especificar durante esta semana
+Este proyecto muestra un ejemplo simple de control de LEDs secuencialmente
 
 ## Video test
 

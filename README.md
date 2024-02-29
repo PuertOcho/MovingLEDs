@@ -1,6 +1,6 @@
 # MovingLEDs
 
-Este proyecto muestra un ejemplo simple de control de LEDs secuencialmente
+Este proyecto muestra un ejemplo simple de control de LEDs para que tengan un parpadeo secuencial.
 
 ## Video test
 
